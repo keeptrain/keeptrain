@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Mobile Development and Backend
+- 🌱 I’m currently learning Mobile and Backend Development
 
 
 <!--

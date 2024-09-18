@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Mobile and Backend Development
+- 📫 How to reach me: 
+  [LinkedIn](https://www.linkedin.com/in/ggilang/)
 
 
 <!--

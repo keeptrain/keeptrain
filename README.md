@@ -1,9 +1,11 @@
-### Hi there 👋 , my name is Gilang
+## Hi there 👋 
+My name is Gilang (he/him)
 
 - 🌱 I’m currently learning Mobile and Backend Development
+- ❤️ Favorite language: Kotlin!
 - 📫 How to reach me:
   
-  ➡️ Doing networking on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ggilang) 
+  ➡️ Doing networking on [LinkedIn](https://linkedin.com/in/ggilang) 
 
 <details>
   <summary>Most Used Languages</summary>

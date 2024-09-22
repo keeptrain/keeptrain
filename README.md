@@ -1,7 +1,7 @@
 ## Hi there 👋 
 My name is Gilang (he/him)
 
-- 🌱 I’m Mobile and Backend Developer
+- 🔭 Mobile and Backend Developer
 - ❤️ Favorite language: Kotlin!
 - 📫 How to reach me:
   

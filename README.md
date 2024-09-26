@@ -2,7 +2,7 @@
 My name is Gilang (he/him)
 
 - 🔭 Mobile and Backend Developer
-- ❤️ Favorite language: Kotlin!
+- ❤️ Favorite language: Kotlin
 - 📫 How to reach me:
   
   ➡️ Doing networking on [LinkedIn](https://linkedin.com/in/ggilang) 

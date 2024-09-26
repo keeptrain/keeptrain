@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hi there 👋 :relaxed:
 My name is Gilang (he/him)
 
 - 🔭 Mobile and Backend Developer

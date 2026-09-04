@@ -1,11 +1,7 @@
 ## Hi there 👋 :relaxed:
 My name is Gilang (he/him)
 
-- 🔭 Iam an Mobile Developer
-- ❤️ Favorite language: Java/Kotlin
-- 📫 How to reach me:
-  
-  ➡️ Doing networking on [LinkedIn](https://linkedin.com/in/ggilang) 
+❤️ Favorite language: Typescript, Java/Kotlin
 
 <details>
   <summary>Most Used Languages</summary>
